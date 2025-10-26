@@ -1,8 +1,8 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
  * Created by: Tiago
- * Created on: oct 2025
- * This program plays cookie clicker.
+ * Created on: Oct 2025
+ * This program plays Cookie clicker.
 */
 
 //setup
