@@ -26,5 +26,3 @@ input.onButtonPressed(Button.B, function() {
     currentNumber = currentNumber - currentNumber
     basic.showNumber(currentNumber)
 })
-
-
