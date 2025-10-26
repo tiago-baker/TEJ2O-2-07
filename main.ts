@@ -10,7 +10,7 @@ basic.clearScreen()
 basic.showIcon(IconNames.Happy)
 
 // variables
-let currentNumber : number = 0
+let currentNumber: number = 0
 
 // add 1 to currentNumber
 input.onButtonPressed(Button.A, function() {
