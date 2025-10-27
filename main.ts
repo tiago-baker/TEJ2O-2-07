@@ -23,6 +23,6 @@ input.onButtonPressed(Button.A, function() {
 // reset currentNumber
 input.onButtonPressed(Button.B, function() {
     // reset to 0
-    currentNumber = currentNumber - currentNumber
+    currentNumber = 0
     basic.showNumber(currentNumber)
 })
