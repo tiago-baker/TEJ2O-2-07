@@ -13,7 +13,7 @@ basic.showIcon(IconNames.Happy)
 let currentNumber: number = 0
 
 // add 1 to currentNumber
-input.onButtonPressed(Button.A, function() {
+input.onButtonPressed(Button.A, function () {
     // add 1
     basic.clearScreen()
     currentNumber = currentNumber + 1
@@ -21,7 +21,7 @@ input.onButtonPressed(Button.A, function() {
 })
 
 // reset currentNumber
-input.onButtonPressed(Button.B, function() {
+input.onButtonPressed(Button.B, function () {
     // reset to 0
     currentNumber = 0
     basic.showNumber(currentNumber)
